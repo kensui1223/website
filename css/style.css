@@ -90,7 +90,7 @@ body {
   min-height: 600px;
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: scroll;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -343,3 +343,4 @@ body {
   background: #eee;
   margin-top: 60px;
 }
+
